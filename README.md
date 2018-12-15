@@ -48,7 +48,7 @@
    <td>暂无</td>
  </tr>
   <tr style="background-color:gray">
-   <td rowspan="4">基础练习</td>
+   <td rowspan="13">基础练习</td>
    <td>BASIC-1</td>
    <td>闰年判断</td>
    <td><a href="http://lx.lanqiao.cn/problem.page?gpid=T5" target="_blank">查看</a></td>
@@ -77,6 +77,78 @@
    <td>数列特征</td>
    <td><a href="http://lx.lanqiao.cn/problem.page?gpid=T8" target="_blank">查看</a></td>
    <td><a href="https://github.com/HTRTan/LanQiao-TrainingQuestions/blob/master/src/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0/%E6%95%B0%E5%88%97%E7%89%B9%E5%BE%81/Main.java" target="_blank">查看</a></td>
+   <td>2018-12-15</td>
+   <td>暂无</td>
+ </tr>
+  <tr style="background-color:gray">
+   <td>BEGIN-5</td>
+   <td>查找整数</td>
+   <td><a href="http://lx.lanqiao.cn/problem.page?gpid=T9" target="_blank">查看</a></td>
+   <td><a href="https://github.com/HTRTan/LanQiao-TrainingQuestions/blob/master/src/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0/%E6%9F%A5%E6%89%BE%E6%95%B4%E6%95%B0/Main.java" target="_blank">查看</a></td>
+   <td>2018-12-15</td>
+   <td>暂无</td>
+ </tr>
+  <tr style="background-color:gray">
+   <td>BEGIN-6</td>
+   <td>杨辉三角形</td>
+   <td><a href="http://lx.lanqiao.cn/problem.page?gpid=T10" target="_blank">查看</a></td>
+   <td><a href="https://github.com/HTRTan/LanQiao-TrainingQuestions/blob/master/src/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92%E5%BD%A2/Main.java" target="_blank">查看</a></td>
+   <td>2018-12-15</td>
+   <td>暂无</td>
+ </tr>
+ <tr style="background-color:gray">
+   <td>BEGIN-7</td>
+   <td>特殊的数字</td>
+   <td><a href="http://lx.lanqiao.cn/problem.page?gpid=T46" target="_blank">查看</a></td>
+   <td><a href="https://github.com/HTRTan/LanQiao-TrainingQuestions/blob/master/src/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0/%E7%89%B9%E6%AE%8A%E7%9A%84%E6%95%B0%E5%AD%97/Main.java" target="_blank">查看</a></td>
+   <td>2018-12-15</td>
+   <td>暂无</td>
+ </tr>
+ <tr style="background-color:gray">
+   <td>BEGIN-8</td>
+   <td>回文数</td>
+   <td><a href="http://lx.lanqiao.cn/problem.page?gpid=T47" target="_blank">查看</a></td>
+   <td><a href="https://github.com/HTRTan/LanQiao-TrainingQuestions/blob/master/src/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0/%E5%9B%9E%E6%96%87%E6%95%B0/Main.java" target="_blank">查看</a></td>
+   <td>2018-12-15</td>
+   <td>暂无</td>
+ </tr>
+ <tr style="background-color:gray">
+   <td>BEGIN-9</td>
+   <td>特殊回文数</td>
+   <td><a href="http://lx.lanqiao.cn/problem.page?gpid=T48" target="_blank">查看</a></td>
+   <td><a href="https://github.com/HTRTan/LanQiao-TrainingQuestions/blob/master/src/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0/%E7%89%B9%E6%AE%8A%E5%9B%9E%E6%96%87%E6%95%B0/Main.java" target="_blank">查看</a></td>
+   <td>2018-12-15</td>
+   <td>暂无</td>
+ </tr>
+ <tr style="background-color:gray">
+   <td>BEGIN-10</td>
+   <td>十进制转十六进制</td>
+   <td><a href="http://lx.lanqiao.cn/problem.page?gpid=T49" target="_blank">查看</a></td>
+   <td><a href="https://github.com/HTRTan/LanQiao-TrainingQuestions/blob/master/src/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0/%E5%8D%81%E8%BF%9B%E5%88%B6%E8%BD%AC%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6/Main.java" target="_blank">查看</a></td>
+   <td>2018-12-15</td>
+   <td>暂无</td>
+ </tr>
+ <tr style="background-color:gray">
+   <td>BEGIN-11</td>
+   <td>十六进制转十进制</td>
+   <td><a href="http://lx.lanqiao.cn/problem.page?gpid=T50" target="_blank">查看</a></td>
+   <td><a href="https://github.com/HTRTan/LanQiao-TrainingQuestions/blob/master/src/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0/%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E8%BD%AC%E5%8D%81%E8%BF%9B%E5%88%B6/Main.java" target="_blank">查看</a></td>
+   <td>2018-12-15</td>
+   <td>暂无</td>
+ </tr>
+ <tr style="background-color:gray">
+   <td>BEGIN-12</td>
+   <td>十六进制转八进制</td>
+   <td><a href="http://lx.lanqiao.cn/problem.page?gpid=T51" target="_blank">查看</a></td>
+   <td><a href="https://github.com/HTRTan/LanQiao-TrainingQuestions/blob/master/src/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0/%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E8%BD%AC%E5%85%AB%E8%BF%9B%E5%88%B6/Main.java" target="_blank">查看</a></td>
+   <td>2018-12-15</td>
+   <td>注意</td>
+ </tr>
+ <tr style="background-color:gray">
+   <td>BEGIN-13</td>
+   <td>数列排序</td>
+   <td><a href="http://lx.lanqiao.cn/problem.page?gpid=T52" target="_blank">查看</a></td>
+   <td><a href="https://github.com/HTRTan/LanQiao-TrainingQuestions/blob/master/src/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0/%E6%95%B0%E5%88%97%E6%8E%92%E5%BA%8F/Main.java" target="_blank">查看</a></td>
    <td>2018-12-15</td>
    <td>暂无</td>
  </tr>
