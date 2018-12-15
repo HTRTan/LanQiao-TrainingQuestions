@@ -44,4 +44,5 @@ public class Main {
  * 65535
  * 
  * 题解：建议运算都使用BigDecimal类进行精度运算，防止数据过大丢失
+ * 		使用CharAt将每位读取出来运算
  */
