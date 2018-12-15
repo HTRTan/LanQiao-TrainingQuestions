@@ -1,7 +1,7 @@
 # LanQiao-TrainingQuestions
 蓝桥杯训练试题集 - JAVA类
 
-<table style="text-align:center;" width=70% border="1" align="center">
+<table style="text-align:center;" width=70% border="0" align="center">
   <tr style="background-color:black">
    <td colspan="7" height="30px"><b>Download Resources</b> </td>
   </tr>
