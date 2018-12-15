@@ -48,7 +48,7 @@
    <td>暂无</td>
  </tr>
   <tr style="background-color:gray">
-   <td rowspan="1">基础练习</td>
+   <td rowspan="3">基础练习</td>
    <td>BASIC-1</td>
    <td>闰年判断</td>
    <td><a href="http://lx.lanqiao.cn/problem.page?gpid=T5">查看</a></td>
@@ -61,7 +61,15 @@
    <td>零一字串</td>
    <td><a href="http://lx.lanqiao.cn/problem.page?gpid=T6">查看</a></td>
    <td><a href="https://github.com/HTRTan/LanQiao-TrainingQuestions/blob/master/src/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0/%E9%9B%B6%E4%B8%80%E5%AD%97%E4%B8%B2/Main.java">查看</a></td>
-   <td>2018-12-14</td>
+   <td>2018-12-15</td>
+   <td>暂无</td>
+ </tr>
+  <tr style="background-color:gray">
+   <td>BEGIN-3</td>
+   <td>字母图形</td>
+   <td><a href="http://lx.lanqiao.cn/problem.page?gpid=T7">查看</a></td>
+   <td><a href="https://github.com/HTRTan/LanQiao-TrainingQuestions/blob/master/src/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0/%E5%AD%97%E6%AF%8D%E5%9B%BE%E5%BD%A2/Main.java">查看</a></td>
+   <td>2018-12-15</td>
    <td>暂无</td>
  </tr>
 <tr>
