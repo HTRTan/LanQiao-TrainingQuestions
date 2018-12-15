@@ -15,7 +15,6 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO 自动生成的方法存根
 		long startTime = System.currentTimeMillis();    //获取开始时间
-		long endTime = System.currentTimeMillis();    //获取结束时间
 		for(int Count = 100 ; Count < 1000 ; Count++){
 			int bit = Integer.valueOf(Integer.toString(Count).substring(2));//个位
 			int dec = Integer.valueOf(Integer.toString(Count).substring(1,2));//十位
@@ -24,6 +23,7 @@ public class Main {
 				System.out.println(Count);
 			}
 		}
+		long endTime = System.currentTimeMillis();    //获取结束时间
 		System.out.println("Time：" + (endTime - startTime) + "ms");    //输出程序运行时间
 	}
 
