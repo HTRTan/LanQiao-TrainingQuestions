@@ -56,6 +56,14 @@
    <td>2018-12-15</td>
    <td>暂无</td>
  </tr>
+ <tr style="background-color:gray">
+   <td>BEGIN-2</td>
+   <td>零一字串</td>
+   <td><a href="http://lx.lanqiao.cn/problem.page?gpid=T6">查看</a></td>
+   <td><a href="https://github.com/HTRTan/LanQiao-TrainingQuestions/blob/master/src/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0/%E9%9B%B6%E4%B8%80%E5%AD%97%E4%B8%B2/Main.java">查看</a></td>
+   <td>2018-12-14</td>
+   <td>暂无</td>
+ </tr>
 <tr>
    <td colspan=7 style="border-style:none;background-color:gray"><b>Note:</b>Eclipse4.4.2 - JAVA JDK1.8 </td>
  </tr>
