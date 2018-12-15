@@ -48,7 +48,7 @@
    <td>暂无</td>
  </tr>
   <tr style="background-color:gray">
-   <td rowspan="1">基础联系</td>
+   <td rowspan="1">基础练习</td>
    <td>BASIC-1</td>
    <td>闰年判断</td>
    <td><a href="http://lx.lanqiao.cn/problem.page?gpid=T5">查看</a></td>
