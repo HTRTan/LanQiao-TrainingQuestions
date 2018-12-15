@@ -1,6 +1,8 @@
 # LanQiao-TrainingQuestions
 蓝桥杯训练试题集 - JAVA类
 
+#一字一句敲出来的最优解
+
 <table style="text-align:center;" width=70% border="0" align="center">
   <tr style="background-color:black">
    <td colspan="7" height="30px"><b>Download Resources</b> </td>
@@ -149,6 +151,15 @@
    <td>数列排序</td>
    <td><a href="http://lx.lanqiao.cn/problem.page?gpid=T52" target="_blank">查看</a></td>
    <td><a href="https://github.com/HTRTan/LanQiao-TrainingQuestions/blob/master/src/%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0/%E6%95%B0%E5%88%97%E6%8E%92%E5%BA%8F/Main.java" target="_blank">查看</a></td>
+   <td>2018-12-15</td>
+   <td>暂无</td>
+ </tr>
+ <tr style="background-color:gray">
+   <td rowspan="48">算法训练</td>
+   <td>ALGO-1</td>
+   <td>区间k大数查询</td>
+   <td><a href="http://lx.lanqiao.cn/problem.page?gpid=T11" target="_blank">查看</a></td>
+   <td><a href="https://github.com/HTRTan/LanQiao-TrainingQuestions/blob/master/src/%E7%AE%97%E6%B3%95%E8%AE%AD%E7%BB%83/%E5%8C%BA%E9%97%B4k%E5%A4%A7%E6%95%B0%E6%9F%A5%E8%AF%A2/Main.java" target="_blank">查看</a></td>
    <td>2018-12-15</td>
    <td>暂无</td>
  </tr>
