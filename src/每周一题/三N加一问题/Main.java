@@ -17,13 +17,16 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO 自动生成的方法存根
 		Scanner cin = new Scanner(System.in);
-		
 		while(cin.hasNext()){
 			int[] cin_Int = new int[2];
 			cin_Int[0] = cin.nextInt();
 			cin_Int[1] = cin.nextInt();
-			int ans_max = 0;
-			for(int Count = cin_Int[0] ; Count <= cin_Int[1] ; Count++){
+			int ans_max = 0 , ans_X = cin_Int[0], ans_Y = cin_Int[1];
+			if(cin_Int[0] > cin_Int[1]){
+				ans_X = cin_Int[1];
+				ans_Y = cin_Int[0];
+			}
+			for(int Count = ans_X ; Count <= ans_Y ; Count++){
 				int res = Count;
 				int whi_Cou = 1;
 				while(res!=1){
@@ -35,7 +38,7 @@ public class Main {
 					}
 				}
 			ans_max = whi_Cou > ans_max ? whi_Cou : ans_max;
-		}
+			}
 		System.out.println(cin_Int[0] + " "+ cin_Int[1] + " " + ans_max);
 		}
 	}
